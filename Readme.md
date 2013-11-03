@@ -3,6 +3,8 @@ btctop
 
 Top for Bitcoin exchanges! Uses the [bitcoincharts.com API](http://bitcoincharts.com/about/markets-api/) for data and displays the data in sortable and filterable format in a terminal window. Inspired by [goxtool](http://prof7bit.github.io/goxtool/)!
 
+![image](https://f.cloud.github.com/assets/138108/1461185/fd2a9fa6-449a-11e3-9969-b13e467ce93f.png)
+
 Latest Binaries
 ---------------
 
